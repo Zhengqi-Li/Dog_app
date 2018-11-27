@@ -67,13 +67,15 @@ __除非有要求，否则不要修改任何已经包含的代码。__
 
 当你准备好提交你的项目时，将下列文件整理并压缩成一个文件，以便上传。
 
-- 代码完整可运行的文件 `[dog_app_zh.ipynb]`，所有的代码块都要执行并展示结果，并要求回答所有问题
-- 将你的 notebook 导出为 HTML 或 PDF 格式，并以 `[report.html]` 或是 `report.pdf` 命名
+- 代码完整可运行的文件 `dog_app_zh.ipynb`，所有的代码块都要执行并展示结果，并要求回答所有问题
+- 将你的 notebook 导出为 HTML 或 PDF 格式，并以 `report.html` 或是 `report.pdf` 命名
 - 任何用于项目中，并且并非由我们为这一项目提供的额外数据图片。
 __请不要将 `dogImages/` 或是 `lfw/` 文件夹中的项目数据包含在内，同样的，请不要将 `bottleneck_features/` 文件夹包含在内。__
 
 此外，你也可以通过 GitHub 连接提交项目。
 
+## 提交结果
+[dog_app_zh.ipynb]
 [dog_app_zh.ipynb]:https://github.com/Zhengqi-Li/Deep_Learning/blob/master/dog_app_zh.ipynb
 
 
