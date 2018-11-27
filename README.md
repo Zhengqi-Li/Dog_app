@@ -75,7 +75,9 @@ __请不要将 `dogImages/` 或是 `lfw/` 文件夹中的项目数据包含在�
 此外，你也可以通过 GitHub 连接提交项目。
 
 ## 提交结果
+
 [dog_app_zh.ipynb]
+
 [dog_app_zh.ipynb]:https://github.com/Zhengqi-Li/Deep_Learning/blob/master/dog_app_zh.ipynb
 
 
